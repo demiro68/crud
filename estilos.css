@@ -1,0 +1,241 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.navsup{
+    background-color: rgb(66, 65, 65);
+}
+.navsup2{
+    background-color: rgb(66, 65, 65);
+    height: 50px;
+    margin: auto;
+    width: 90%;
+    /*border: 3px solid green;*/
+    padding: 10px;
+}
+.navinf{
+    color: white;
+    background-color: rgb(26, 82, 118);
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.navinf2{
+    color: white;
+    background-color: rgb(26, 82, 118);
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    padding-left: 100px;
+    /*padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;*/
+}
+.logocodo{
+    width: 80px;
+    height: 70px;
+    margin-left: 30px;
+}
+.textosupizq{
+    color: white;
+    text-align: left;
+}
+.textosupder{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+.pantalladivi{
+    background-image: url(img/hawaii.jpg);
+    background-position: center;   
+    background-size: cover;
+    text-align: right;
+    width: 100%;
+    height:80vh ;
+    filter: brightness(65%);
+}
+.titulo1{
+    color: white;
+    padding-top: 180px;
+    padding-right: 100px;
+}
+
+.texto1{
+    color: orange;
+    padding-top: 1px;
+    padding-right: 100px;
+    font-weight: bold;
+}
+.boton1{
+    color: white;
+    background: transparent;
+    border-style: solid;
+    border-color: white;
+    margin-right: 10px;
+}
+.boton2{
+    color: white;
+    margin-right: 100px;
+}
+.pantalladiv2{
+    display: flex;
+    width: 100%;
+}
+
+.izquierda2{
+    background-image: url("img/honolulu.jpg");
+    background-position: center;   
+    background-size: cover;
+    width: 50%;
+    height:50vh ;
+}
+
+.derecha2{
+    color: white;
+    background-color: rgb(66, 65, 65);
+    width: 50%;
+    height: 50vh;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+}
+
+.izquierda3{
+    color: yellow;
+    background-color: rgb(66, 65, 65);
+    margin-left: 30px;
+    width: 50%;
+    height:50vh ;
+}
+
+.derecha3{
+    color: lightblue;
+    background-color: rgb(66, 65, 65);
+    width: 50%;
+    height: 50vh;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+}
+.botonespe{
+    border: 3px solid white;
+    border-style: groove;
+    text-decoration: none;
+    height: 30px;
+    padding: 2px;
+    color:white;
+    display:inline-block;
+}
+.p1{
+    font-size: 19px;
+    line-height: 30px;
+   
+    width: 50%;
+    margin:auto;
+    margin-left:80px;
+}
+.input1{
+    height: 30px;
+    
+}
+
+.input2{
+    height: 100px;
+
+}
+.boton5{
+    color: white;
+    background: rgb(96, 209, 96);
+    border: none;
+    height: 40px;
+}
+
+footer{
+    bottom: 0; 
+}
+.espaciolargo{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+.espaciocorto{
+    margin-right: 80px;
+    margin-left: 20px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+ 
+a:active {
+   color: white;
+   background-color: transparent;
+   text-decoration: none;
+}
+.espaciomini{
+    margin-left: 20px;
+}
+.tarjetas{
+    width: 60%;
+}
+
+.separacion{
+    width: 40px;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+.centrado{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.botonverde{
+    color: black;
+    background-color: lightgreen;
+    margin-left: 5px;
+}
+
+.botonresul{
+    height: 60px;
+    background-color: lightblue;
+    margin-left: 5px;
+
+}
+.margen{
+    margin-left: 5px;
+    
+}
+.partecentral{
+    width: 70%;
+    margin-left: 15%;
+    
+}
+
+.textosupizq2{
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+    margin: auto;
+}
+
+.margengris{
+    border: 1px solid grey;
+}
